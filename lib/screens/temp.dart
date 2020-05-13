@@ -12,7 +12,7 @@ class TempScreen extends StatelessWidget {
           SliverAppBar(
             backgroundColor: Colors.deepPurple,
             pinned: true,
-            //title: Text("siver app bar"),
+            //title: Text("sivenr app bar"),
             expandedHeight: 200,
             flexibleSpace: FlexibleSpaceBar(
                 title: Text("siver app bar"), background: Placeholder()),
